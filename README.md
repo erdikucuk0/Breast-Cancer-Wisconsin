@@ -1,2 +1,2 @@
 # Breast-Cancer-Wisconsin
-I chose to use the k-nn classifier, took the value of k as 3 and the distance measure as minkowski. The model has an accuracy rate of over 80%.
+I've chosen to use the K-NN classifier, have taken the value of 'K' as 3 and the distance measure as Minkowski. The model has an accuracy rate of over 80%.
